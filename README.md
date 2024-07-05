@@ -15,7 +15,7 @@ A criação do audio foi mais complicada, pois a Ia acabou demorando até reconh
 
 ## 🚀 Resultados
 Bom esse é o resultado do meu projeto, espero que vocês gostem e se divirtam com ele; <br>
-[VÍDEO]()
+[VÍDEO](https://github.com/GusGgk/lab-natty-or-not/issues/1)
 
 ## 💭 Reflexão (Opcional)
 O projeto de criar conteúdo que aparente ser produzido por humanos usando inteligências artificiais desafia fronteiras tecnológicas e levanta questões profundas sobre criatividade, autenticidade e ética. Explorar essas capacidades não apenas expande os limites da arte digital, mas também nos convida a refletir sobre o que significa ser humano em um mundo cada vez mais dominado pela tecnologia.
